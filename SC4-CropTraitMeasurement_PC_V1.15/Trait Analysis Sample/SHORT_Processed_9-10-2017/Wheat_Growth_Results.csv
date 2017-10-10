@@ -1,0 +1,2 @@
+ID,Date,Img_name,Pole_H(pixel),Wheat_H(cm),Err_Range(0-1),G_Value(0-255),Side_Compactness(0-1),Leaf_Size(cm2),Stem_Orientation(0-180),Light_Intensity(0-255)
+1,06/07/2015,SHORT_CAM02_ID-01_Date-6-7-2015_14-1,380,79.3,0.06,146.3,0.934,46.8,88.91,126.25
